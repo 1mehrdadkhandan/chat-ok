@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px ; 
+    align-items: center;
+    background-color: rgb(234, 233 ,234);
+    height: 50px;
+    box-sizing: border-box;
+}
+.title {
+    margin: 0;
+    color: #228b22;
+}
+
+.logout{
+    outline: 0;
+    padding: 8px 24px;
+    color: #fff;
+    background-color: #228b22;
+    border: 0;
+    border-radius: 4px;
+    cursor: pointer;
+}
